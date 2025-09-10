@@ -1,6 +1,6 @@
 #  Diabetes Prediction Project  
-<img width="935" height="976" alt="Image" src="https://github.com/user-attachments/assets/59339950-459f-4112-9553-049c140d1c2d" />
-<img width="905" height="959" alt="Image" src="https://github.com/user-attachments/assets/8016a7ce-e8c9-4984-ae80-f6d3a4c3dae4" />
+<img width="235" height="276" alt="Image" src="https://github.com/user-attachments/assets/59339950-459f-4112-9553-049c140d1c2d" />
+<img width="205" height="259" alt="Image" src="https://github.com/user-attachments/assets/8016a7ce-e8c9-4984-ae80-f6d3a4c3dae4" />
 ##  Overview  
 This project focuses on **predicting diabetes** using machine learning models.  
 We worked with a public dataset and applied different algorithms to compare their performance.  
